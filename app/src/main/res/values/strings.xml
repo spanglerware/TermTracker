@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TermTracker</string>
+    <string name="title_activity_term_list">TermListActivity</string>
+    <string name="title_activity_term_detail">TermDetailActivity</string>
+    <string name="title_activity_course_list">CourseListActivity</string>
+    <string name="title_activity_course_detail">CourseDetailActivity</string>
+    <string name="title_activity_assessment_list">AssessmentListActivity</string>
+    <string name="title_activity_assessment_detail">AssessmentDetailActivity</string>
+    <string name="title_activity_notes">NotesActivity</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_default_email">Default Email</string>
+    <string name="pref_default_email">example@example.com</string>
+
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_default_notification_time">Default Notification Time</string>
+    <string-array name="pref_default_times">
+        <item>1 Day</item>
+        <item>1 Week</item>
+        <item>2 Weeks</item>
+    </string-array>
+    <string-array name="pref_default_time_values">
+        <item>1</item>
+        <item>7</item>
+        <item>14</item>
+    </string-array>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+</resources>
